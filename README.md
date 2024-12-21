@@ -1,6 +1,11 @@
 # Prédiction du Diabète avec Machine Learning
 ![Intro](https://github.com/user-attachments/assets/f979b44e-cce8-41a6-a11f-75d284d12232)
 
+Le diabète est une maladie chronique caractérisée par une hyperglycémie (taux de sucre élevé dans le sang)
+due à une production insuffisante d'insuline ou à une utilisation inefficace de l'insuline par l'organisme.
+Dans le contexte de la prédiction de cette maladie, l'objectif est d'utiliser des modèles de machine learning
+pour identifier les individus à risque de développer le diabète en analysant diverses caractéristiques cliniques et biologiques,
+telles que la glycémie, l'indice de masse corporelle (IMC), l'âge, et d'autres facteurs pertinents.
 **Description du Projet**
 
 Ce projet utilise un modèle de machine learning pour prédire le risque de diabète chez un individu en fonction de données médicales et démographiques.
@@ -8,7 +13,7 @@ Il s'agit d'une application développée avec Streamlit pour fournir une interfa
 
 **Fonctionnalités**
 
-Chargement des données utilisateur via un formulaire interactif..
+Chargement des données utilisateur via un formulaire interactif.
 Prédiction binaire (diabétique/non diabétique) basée sur les données fournies.
 Affichage des probabilités associées à chaque prédiction.
 Modèle de machine learning préentraîné : Gradient Boosting Classifier.
