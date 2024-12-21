@@ -1,9 +1,6 @@
 # Prédiction du Diabète avec Machine Learning
 ![Intro](https://github.com/user-attachments/assets/f979b44e-cce8-41a6-a11f-75d284d12232)
 
-![Intro](https://github.com/user-attachments/assets/66e1b5c5-2f1f-4525-bbe7-1d5982028589)
-
-
 **Description du Projet**
 
 Ce projet utilise un modèle de machine learning pour prédire le risque de diabète chez un individu en fonction de données médicales et démographiques.
@@ -104,3 +101,12 @@ Clonez le dépôt
 **Prédiction : Diabétique**
 
 **Probabilité d'être diabétique : 78.2 %**
+
+# **8.Conclusion**
+
+Dans cette étude, nous avons analysé plusieurs algorithmes de classification en tenant compte des particularités du dataset,
+notamment un déséquilibre modéré entre les classes. Cette situation a nécessité une attention particulière pour garantir une performance équitable sur les deux classes.
+Les modèles d'ensemble comme Gradient Boosting et LightGBM ont démontré leur efficacité avec une exactitude de 94 %, tout en maintenant un bon équilibre entre précision et rappel.
+Bien que la régression logistique ait obtenu une exactitude acceptable (84 %), son approche linéaire s'est révélée moins adaptée au contexte des données. Après optimisation,
+le modèle KNN a montré une amélioration notable (82 % d'exactitude), mais reste moins performant que les méthodes d'ensemble.
+Ces résultats soulignent l'importance de l'optimisation dans des conditions spécifiques et confirment que Gradient Boosting et LightGBM sont les meilleurs choix pour gérer efficacement les caractéristiques complexes de ce dataset.
