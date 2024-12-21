@@ -8,7 +8,7 @@ Il s'agit d'une application développée avec Streamlit pour fournir une interfa
 
 **Fonctionnalités**
 
-Chargement des données utilisateur via un formulaire interactif.
+Chargement des données utilisateur via un formulaire interactif..
 Prédiction binaire (diabétique/non diabétique) basée sur les données fournies.
 Affichage des probabilités associées à chaque prédiction.
 Modèle de machine learning préentraîné : Gradient Boosting Classifier.
