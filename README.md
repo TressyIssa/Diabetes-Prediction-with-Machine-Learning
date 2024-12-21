@@ -42,8 +42,62 @@ Vérification des valeurs aberrantes et normalisation des données.
 
 # Entraînement du Modèle :
 
+- Précision du modèle : 89 %.
+  
+- Métriques supplémentaires : Matrice de confusion, précision, rappel, F1-score.
+
 Installation
 Clonez le dépôt
 
-git clone https://github.com/votre-repo/prediction-diabete.git
-cd prediction-diabete
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/TressyIssa/Plateforme-de-detection-des-anomalies-du-sommeil.git
+   cd sleep-disorder-prediction
+   ```
+
+2. **Installez les dépendances : bash Copier le code**:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Lancer l'application Streamlit **:
+
+   ```bash
+   streamlit run app.py
+   ```
+**Utilisation**
+
+1. Lancez l'application via Streamlit.
+2. Entrez les informations médicales demandées :
+3. Nombre de grossesses, glucose, pression artérielle, etc.
+  - Cliquez sur le bouton "Prédire" pour obtenir le résultat.
+4. Le résultat s'affiche avec :
+  - Une prédiction binaire (Diabétique/Non diabétique).
+  - La probabilité associée à la prédiction.
+
+# Exemple de Résultat
+
+**Entrées :**
+
+**Grossesses : 2**
+
+**Glucose : 150**
+
+**Pression artérielle : 85**
+
+**Épaisseur cutanée : 32**
+
+**Insuline : 130**
+
+**BMI : 28.7**
+
+**DPF : 0.672**
+
+**Âge : 45**
+
+**Sorties :**
+
+**Prédiction : Diabétique**
+
+**Probabilité d'être diabétique : 78.2 %**
