@@ -1,6 +1,8 @@
 # Prédiction du Diabète avec Machine Learning
 ![Intro](https://github.com/user-attachments/assets/f979b44e-cce8-41a6-a11f-75d284d12232)
 
+# Contexte
+
 Le diabète est une maladie chronique caractérisée par une hyperglycémie (taux de sucre élevé dans le sang)
 due à une production insuffisante d'insuline ou à une utilisation inefficace de l'insuline par l'organisme.
 Dans le contexte de la prédiction de cette maladie, l'objectif est d'utiliser des modèles de machine learning
