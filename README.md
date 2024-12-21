@@ -1,6 +1,9 @@
 # Prédiction du Diabète avec Machine Learning
 ![Intro](https://github.com/user-attachments/assets/f979b44e-cce8-41a6-a11f-75d284d12232)
 
+![Intro](https://github.com/user-attachments/assets/66e1b5c5-2f1f-4525-bbe7-1d5982028589)
+
+
 **Description du Projet**
 
 Ce projet utilise un modèle de machine learning pour prédire le risque de diabète chez un individu en fonction de données médicales et démographiques.
