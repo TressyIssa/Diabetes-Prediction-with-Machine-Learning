@@ -1,4 +1,5 @@
 # Prédiction du Diabète avec Machine Learning
+![Intro](https://github.com/user-attachments/assets/f979b44e-cce8-41a6-a11f-75d284d12232)
 
 **Description du Projet**
 
