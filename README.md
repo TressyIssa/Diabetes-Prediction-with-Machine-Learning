@@ -41,67 +41,8 @@ Vérification des valeurs aberrantes et normalisation des données.
 
 # Entraînement du Modèle :
 
-Modèle utilisé : Gradient Boosting Classifier.
-
-Division des données en ensembles d'entraînement (80 %) et de test (20 %).
-
-Optimisation des hyperparamètres pour améliorer les performances.
-
-**Évaluation :**
-
-Précision du modèle : 89 %.
-
-Métriques supplémentaires : Matrice de confusion, précision, rappel, F1-score.
-
 Installation
-
-Clonez le dépôt :
-
-bash
-
-Copier le code
+Clonez le dépôt
 
 git clone https://github.com/votre-repo/prediction-diabete.git
-
 cd prediction-diabete
-
-Installez les dépendances :
-
-bash
-
-Copier le code
-
-pip install -r requirements.txt
-
-Lancer l'application Streamlit :
-
-bash
-
-Copier le code
-
-streamlit run app.py
-
-Utilisation
-Lancez l'application via Streamlit.
-Entrez les informations médicales demandées :
-Nombre de grossesses, glucose, pression artérielle, etc.
-Cliquez sur le bouton "Prédire" pour obtenir le résultat.
-Le résultat s'affiche avec :
-Une prédiction binaire (Diabétique/Non diabétique).
-La probabilité associée à la prédiction.
-
-**Exemple de Résultat**
-Entrées :
-
-Grossesses : 2
-Glucose : 150
-Pression artérielle : 85
-Épaisseur cutanée : 32
-Insuline : 130
-BMI : 28.7
-DPF : 0.672
-Âge : 45
-Sorties :
-
-Prédiction : Diabétique
-Probabilité d'être diabétique : 78.2 %
