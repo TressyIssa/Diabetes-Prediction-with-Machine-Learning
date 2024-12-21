@@ -1,4 +1,4 @@
-# Prédiction du Diabète avec Machine Learning
+# Diabetes-Prediction-with-Machine-Learning
 ![Intro](https://github.com/user-attachments/assets/f979b44e-cce8-41a6-a11f-75d284d12232)
 
 # Contexte
@@ -59,7 +59,7 @@ Clonez le dépôt
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/TressyIssa/Plateforme-de-detection-des-anomalies-du-sommeil.git
+   git clone https://github.com/TressyIssa/Diabetes-Prediction-with-Machine-Learning.git
    cd sleep-disorder-prediction
    ```
 
